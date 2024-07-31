@@ -1,6 +1,6 @@
 # Real-time Election Voting System 🗳️
 
-This repository contains the code for a real-time election voting system. The system is built using Python, Kafka, Spark Streaming, Postgres, and Streamlit. Docker Compose is used to easily spin up the required services in Docker containers.
+This repository contains the code for a real-time election voting system developed to address concerns about election integrity and transparency. In response to allegations of a rigged voting system favoring the ruling party BJP in India, this system was designed to ensure a fair and transparent electoral process.
 
 ## System Architecture 🏗️
 ![system_architecture.jpg](images%2Fsystem_architecture.jpg)
