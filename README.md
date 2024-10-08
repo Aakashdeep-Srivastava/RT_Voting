@@ -76,8 +76,7 @@ streamlit run streamlit-app.py
 ```
 
 ## Screenshots
-### Candidates and Parties information
-![candidates_and_party.png](images/candidates_and_party.png)
+
 ### Voters
 ![voters.png](images%2Fvoters.png)
 
